@@ -1,0 +1,15 @@
+PODS:
+  - APUtils (2.0.0):
+    - APUtils/Foundation
+    - APUtils/UIKit
+  - APUtils/Foundation (2.0.0)
+  - APUtils/UIKit (2.0.0):
+    - APUtils/Foundation
+
+DEPENDENCIES:
+  - APUtils
+
+SPEC CHECKSUMS:
+  APUtils: c784727be41442b3c7a3bf8b4d89e53a41807138
+
+COCOAPODS: 0.29.0
